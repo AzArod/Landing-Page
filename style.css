@@ -56,15 +56,20 @@ body {
 }
 
 .action {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
     background-color: #3882F6;
     color: white;
     margin: 32px;
+    padding: 32px;
     border-radius: 10px;
 }
 
 .footer {
     background-color: #1F2937;
     color: white;
+    text-align: center;
 }
 
 a:link, a:visited {
