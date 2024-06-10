@@ -1,2 +1,3 @@
 # Landing-Page
 Second Project 
+For my second project i created a landing page using basic HTML and CSS. I mostly used flexbox to layout and style page which took me around 8 hours to complete only using google as a resource. After completing the landing page I was very close and happy with the finished product however i wanted to optimize my code which i did with chat GPT which helped with my semantic HTML improving my accessability, purpose and structure. The CSS improvements helped reduce repetition ensure proper layout and and avoid redundancy. I made sure to have the AI explain to me why it made the changes it did. The final result was still very similar but much cleaner looking final product. 
